@@ -23,3 +23,4 @@ Refer the project files to build your own twitter clone.
 
 
 # Screenshot:
+<img width="1112" alt="Screen Shot 2022-11-13 at 10 09 45 PM" src="https://user-images.githubusercontent.com/109696333/201573633-da95c24f-f5e6-4fa3-9dd9-db4678b55dea.png">
